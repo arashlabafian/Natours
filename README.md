@@ -12,6 +12,6 @@
 http://natura-project.s3-website-sa-east-1.amazonaws.com/
 
 
-Author: Jonas Schmedtmann
+course instructor: Jonas Schmedtmann
 
 Student: Arash Labafian
